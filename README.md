@@ -1,11 +1,4 @@
-# WeisMind Creative Studio
+# WeisMind Creative Studio Website
 
-WeisMind Creative is a software development, small business solution, and enterprise that manages brands
+This is the repository four our company website. Much more to come on that later.
 
-## Contribute
-
-You can contribute and I will share more abou that sometime.
-
-## Join 
-
-This too
